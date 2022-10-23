@@ -761,3 +761,4 @@ C:\Users\Master\Documents\GitHub\TestProject\obj\Debug\netcoreapp3.1\BookListRaz
 C:\Users\Master\Documents\GitHub\TestProject\obj\Debug\netcoreapp3.1\BookListRazor.pdb
 C:\Users\Master\Documents\GitHub\TestProject\obj\Debug\netcoreapp3.1\BookListRazor.genruntimeconfig.cache
 C:\Users\Master\Documents\GitHub\TestProject\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+C:\Users\Master\Documents\GitHub\TestProject\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
