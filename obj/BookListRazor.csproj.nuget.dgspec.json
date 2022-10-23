@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\BookListRazor\\BookListRazor.csproj": {}
+    "C:\\Users\\Master\\Documents\\GitHub\\TestProject\\BookListRazor.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\BookListRazor\\BookListRazor.csproj": {
+    "C:\\Users\\Master\\Documents\\GitHub\\TestProject\\BookListRazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\BookListRazor\\BookListRazor.csproj",
+        "projectUniqueName": "C:\\Users\\Master\\Documents\\GitHub\\TestProject\\BookListRazor.csproj",
         "projectName": "BookListRazor",
-        "projectPath": "C:\\Projects\\BookListRazor\\BookListRazor.csproj",
+        "projectPath": "C:\\Users\\Master\\Documents\\GitHub\\TestProject\\BookListRazor.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\BookListRazor\\obj\\",
+        "outputPath": "C:\\Users\\Master\\Documents\\GitHub\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
